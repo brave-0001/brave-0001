@@ -10,7 +10,7 @@ Logic meets art — that's how I build. I'm a full-stack developer who cares abo
 
 Below are some of the tools I use for development.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,php,laravel,tailwind,mysql,git,docker,mongodb,typescript&perline=8" />ocker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,python,django,flask,php,laravel,tailwind,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,linux,aws,firebase,figma,vscode&perline=9" />
 
 ## Projects
 
