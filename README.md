@@ -15,15 +15,18 @@
 
 ---
 
-### 👨‍💻 About Me
 
-> *Building scalable web applications end-to-end — from crafting elegant UIs to engineering robust backends. I thrive on solving real-world problems with clean, maintainable code across the full stack.*
+**WHO I'M I?**
 
-- 🔭 Currently working on projects at **[brave-0001](https://github.com/brave-0001)**
-- 🌱 Always learning — currently exploring **cloud architecture & DevOps**
-- 💬 Ask me about **React, Node.js, Django, Laravel, or system design**
-- 🇰🇪 Based in **Nairobi, Kenya**
-- ⚡ Fun fact: I've shipped **135+ repositories** and counting
+Logic meets art — that's how I build.
+
+I'm a full-stack developer who obsesses over the details.
+Clean interfaces. Solid backends. Code that just works.
+
+- I've shipped 135+ projects — web apps, platforms, tools
+- Currently going deep on cloud & system design
+- Building from Nairobi, Kenya
+- =I move fast and I don't break things
 
 ---
 
